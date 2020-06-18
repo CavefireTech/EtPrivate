@@ -1,0 +1,404 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yh-0043/Documents/GitHub/ET/Server/Model/Server.Model.csproj": {}
+  },
+  "projects": {
+    "/Users/yh-0043/Documents/GitHub/ET/Server/Model/Server.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yh-0043/Documents/GitHub/ET/Server/Model/Server.Model.csproj",
+        "projectName": "Model",
+        "projectPath": "/Users/yh-0043/Documents/GitHub/ET/Server/Model/Server.Model.csproj",
+        "packagesPath": "/Users/yh-0043/.nuget/packages/",
+        "outputPath": "/Users/yh-0043/Documents/GitHub/ET/Server/Model/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/yh-0043/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/Google.Protobuf/Google.Protobuf.csproj": {
+                "projectPath": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/Google.Protobuf/Google.Protobuf.csproj"
+              },
+              "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/KcpLib/KcpLib.csproj": {
+                "projectPath": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/KcpLib/KcpLib.csproj"
+              },
+              "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/MongoDB.Bson.csproj": {
+                "projectPath": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/MongoDB.Bson.csproj"
+              },
+              "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/MongoDB.Driver.Core.csproj": {
+                "projectPath": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/MongoDB.Driver.Core.csproj"
+              },
+              "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver/MongoDB.Driver.csproj": {
+                "projectPath": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver/MongoDB.Driver.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "CommandLineParser": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "Microsoft.CodeAnalysis.Scripting": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.5.4, )"
+            },
+            "SharpZipLib": {
+              "target": "Package",
+              "version": "[1.0.0-alpha2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/Google.Protobuf/Google.Protobuf.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/Google.Protobuf/Google.Protobuf.csproj",
+        "projectName": "Google.Protobuf",
+        "projectPath": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/Google.Protobuf/Google.Protobuf.csproj",
+        "packagesPath": "/Users/yh-0043/.nuget/packages/",
+        "outputPath": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/Google.Protobuf/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/yh-0043/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/MongoDB.Bson.csproj": {
+                "projectPath": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/MongoDB.Bson.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/KcpLib/KcpLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/KcpLib/KcpLib.csproj",
+        "projectName": "KcpLib",
+        "projectPath": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/KcpLib/KcpLib.csproj",
+        "packagesPath": "/Users/yh-0043/.nuget/packages/",
+        "outputPath": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/KcpLib/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/yh-0043/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/MongoDB.Bson.csproj": {
+      "version": "0.0.0-local",
+      "restore": {
+        "projectUniqueName": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/MongoDB.Bson.csproj",
+        "projectName": "MongoDB.Bson",
+        "projectPath": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/MongoDB.Bson.csproj",
+        "packagesPath": "/Users/yh-0043/.nuget/packages/",
+        "outputPath": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/yh-0043/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.6.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/MongoDB.Driver.Core.csproj": {
+      "version": "0.0.0-local",
+      "restore": {
+        "projectUniqueName": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/MongoDB.Driver.Core.csproj",
+        "projectName": "MongoDB.Driver.Core",
+        "projectPath": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/MongoDB.Driver.Core.csproj",
+        "packagesPath": "/Users/yh-0043/.nuget/packages/",
+        "outputPath": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/yh-0043/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/MongoDB.Bson.csproj": {
+                "projectPath": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/MongoDB.Bson.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "DnsClient": {
+              "target": "Package",
+              "version": "[1.0.7, )"
+            },
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.6.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver/MongoDB.Driver.csproj": {
+      "version": "0.0.0-local",
+      "restore": {
+        "projectUniqueName": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver/MongoDB.Driver.csproj",
+        "projectName": "MongoDB.Driver",
+        "projectPath": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver/MongoDB.Driver.csproj",
+        "packagesPath": "/Users/yh-0043/.nuget/packages/",
+        "outputPath": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/yh-0043/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/MongoDB.Bson.csproj": {
+                "projectPath": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/MongoDB.Bson.csproj"
+              },
+              "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/MongoDB.Driver.Core.csproj": {
+                "projectPath": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/MongoDB.Driver.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.6.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

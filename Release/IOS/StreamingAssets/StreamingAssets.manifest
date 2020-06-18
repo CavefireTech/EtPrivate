@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1749637264
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: uilobby.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: config.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: unit.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: code.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: uilogin.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: map.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: enemy.unity3d
+      Dependencies: {}

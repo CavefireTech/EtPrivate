@@ -1,0 +1,65 @@
+﻿{
+  "version": "0.0.0-local",
+  "restore": {
+    "projectUniqueName": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.GridFS/MongoDB.Driver.GridFS.csproj",
+    "projectName": "MongoDB.Driver.GridFS",
+    "projectPath": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.GridFS/MongoDB.Driver.GridFS.csproj",
+    "outputPath": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.GridFS/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/MongoDB.Bson.csproj": {
+            "projectPath": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/MongoDB.Bson.csproj"
+          },
+          "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/MongoDB.Driver.Core.csproj": {
+            "projectPath": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/MongoDB.Driver.Core.csproj"
+          },
+          "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver/MongoDB.Driver.csproj": {
+            "projectPath": "/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver/MongoDB.Driver.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "allWarningsAsErrors": true
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.6.1, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+    }
+  }
+}

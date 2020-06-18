@@ -1,0 +1,11 @@
+/Users/yh-0043/Documents/GitHub/ET/Bin/netcoreapp2.2/MongoDB.Bson.deps.json
+/Users/yh-0043/Documents/GitHub/ET/Bin/netcoreapp2.2/MongoDB.Bson.dll
+/Users/yh-0043/Documents/GitHub/ET/Bin/netcoreapp2.2/MongoDB.Bson.pdb
+/Users/yh-0043/Documents/GitHub/ET/Bin/netcoreapp2.2/MongoDB.Bson.xml
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/obj/Debug/netcoreapp2.2/MongoDB.Bson.csprojAssemblyReference.cache
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/obj/Debug/netcoreapp2.2/MongoDB.Bson.AssemblyInfoInputs.cache
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/obj/Debug/netcoreapp2.2/MongoDB.Bson.AssemblyInfo.cs
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/obj/Debug/netcoreapp2.2/MongoDB.Bson.csproj.CoreCompileInputs.cache
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/obj/Debug/netcoreapp2.2/MongoDB.Bson.dll
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/obj/Debug/netcoreapp2.2/MongoDB.Bson.xml
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/obj/Debug/netcoreapp2.2/MongoDB.Bson.pdb

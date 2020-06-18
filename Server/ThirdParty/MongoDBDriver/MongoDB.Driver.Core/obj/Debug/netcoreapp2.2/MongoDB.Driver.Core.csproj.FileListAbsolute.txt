@@ -1,0 +1,12 @@
+/Users/yh-0043/Documents/GitHub/ET/Bin/netcoreapp2.2/MongoDB.Driver.Core.deps.json
+/Users/yh-0043/Documents/GitHub/ET/Bin/netcoreapp2.2/MongoDB.Driver.Core.dll
+/Users/yh-0043/Documents/GitHub/ET/Bin/netcoreapp2.2/MongoDB.Driver.Core.pdb
+/Users/yh-0043/Documents/GitHub/ET/Bin/netcoreapp2.2/MongoDB.Driver.Core.xml
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/obj/Debug/netcoreapp2.2/MongoDB.Driver.Core.csprojAssemblyReference.cache
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/obj/Debug/netcoreapp2.2/MongoDB.Driver.Core.AssemblyInfoInputs.cache
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/obj/Debug/netcoreapp2.2/MongoDB.Driver.Core.AssemblyInfo.cs
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/obj/Debug/netcoreapp2.2/MongoDB.Driver.Core.csproj.CoreCompileInputs.cache
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/obj/Debug/netcoreapp2.2/MongoDB.Driver.Core.csproj.CopyComplete
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/obj/Debug/netcoreapp2.2/MongoDB.Driver.Core.dll
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/obj/Debug/netcoreapp2.2/MongoDB.Driver.Core.xml
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/obj/Debug/netcoreapp2.2/MongoDB.Driver.Core.pdb

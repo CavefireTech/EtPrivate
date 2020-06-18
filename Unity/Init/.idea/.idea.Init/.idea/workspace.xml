@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eacc7000-f641-49d3-b309-a8895822a6db" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/mine_bot.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../Assets/Model/Module/Pathfinding/AstarPathfindingProject/ExampleScenes/Prefabs/MineBot/mine_bot.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Model/Module/Pathfinding/AstarPathfindingProject/Generators/Utilities/RecastMeshGatherer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Assets/Model/Module/Pathfinding/AstarPathfindingProject/Generators/Utilities/RecastMeshGatherer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Res/Code/Hotfix.dll.bytes" beforeDir="false" afterPath="$PROJECT_DIR$/../Assets/Res/Code/Hotfix.dll.bytes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assets/Res/Code/Hotfix.pdb.bytes" beforeDir="false" afterPath="$PROJECT_DIR$/../Assets/Res/Code/Hotfix.pdb.bytes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity.Hotfix.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity.Hotfix.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity.Model.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity.Model.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity.ThirdParty.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity.ThirdParty.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity.sln" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Assets/Editor/ServerCommandLineEditor/ServerCommandLineEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8F717D6-E666-41DA-8920-44ED9CC77D9B/18/ea058dee/EditorWindow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Assets/Model/Module/Pathfinding/AstarPathfindingProject/Core/RVO/RVOAgent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Assets/Model/Module/Pathfinding/AstarPathfindingProject/UnityHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Assets/ThirdParty/ILRuntime/ILRuntime/Runtime/Extensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Assets/Editor/BuildEditor/BuildHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Assets/Model/Module/Pathfinding/AstarPathfindingProject/Core/RVO/RVOCoreSimulator.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1dL3GYzvtmmn3JrcTxjWhmdig6Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eacc7000-f641-49d3-b309-a8895822a6db" name="Default Changelist" comment="" />
+      <created>1592190450120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592190450120</updated>
+      <workItem from="1592190457980" duration="753000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="932" y="199" width="811" height="735" key="find.popup" timestamp="1592191040922">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="932" y="199" width="811" height="735" key="find.popup/0.23.2048.1129@0.23.2048.1129" timestamp="1592191040922" />
+  </component>
+</project>

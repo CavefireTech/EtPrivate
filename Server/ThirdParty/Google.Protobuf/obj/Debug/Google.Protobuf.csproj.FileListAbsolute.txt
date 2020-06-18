@@ -1,0 +1,10 @@
+/Users/yh-0043/Documents/GitHub/ET/Bin/Google.Protobuf.deps.json
+/Users/yh-0043/Documents/GitHub/ET/Bin/Google.Protobuf.dll
+/Users/yh-0043/Documents/GitHub/ET/Bin/Google.Protobuf.pdb
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/Google.Protobuf/obj/Debug/Google.Protobuf.csprojAssemblyReference.cache
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/Google.Protobuf/obj/Debug/Google.Protobuf.AssemblyInfoInputs.cache
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/Google.Protobuf/obj/Debug/Google.Protobuf.AssemblyInfo.cs
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/Google.Protobuf/obj/Debug/Google.Protobuf.csproj.CoreCompileInputs.cache
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/Google.Protobuf/obj/Debug/Google.Protobuf.csproj.CopyComplete
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/Google.Protobuf/obj/Debug/Google.Protobuf.dll
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/Google.Protobuf/obj/Debug/Google.Protobuf.pdb

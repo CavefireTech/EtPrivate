@@ -1,0 +1,12 @@
+/Users/yh-0043/Documents/GitHub/ET/Bin/netcoreapp2.2/MongoDB.Driver.GridFS.deps.json
+/Users/yh-0043/Documents/GitHub/ET/Bin/netcoreapp2.2/MongoDB.Driver.GridFS.dll
+/Users/yh-0043/Documents/GitHub/ET/Bin/netcoreapp2.2/MongoDB.Driver.GridFS.pdb
+/Users/yh-0043/Documents/GitHub/ET/Bin/netcoreapp2.2/MongoDB.Driver.GridFS.xml
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.GridFS/obj/Debug/netcoreapp2.2/MongoDB.Driver.GridFS.csprojAssemblyReference.cache
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.GridFS/obj/Debug/netcoreapp2.2/MongoDB.Driver.GridFS.AssemblyInfoInputs.cache
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.GridFS/obj/Debug/netcoreapp2.2/MongoDB.Driver.GridFS.AssemblyInfo.cs
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.GridFS/obj/Debug/netcoreapp2.2/MongoDB.Driver.GridFS.csproj.CoreCompileInputs.cache
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.GridFS/obj/Debug/netcoreapp2.2/MongoDB.Driver.GridFS.csproj.CopyComplete
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.GridFS/obj/Debug/netcoreapp2.2/MongoDB.Driver.GridFS.dll
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.GridFS/obj/Debug/netcoreapp2.2/MongoDB.Driver.GridFS.xml
+/Users/yh-0043/Documents/GitHub/ET/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.GridFS/obj/Debug/netcoreapp2.2/MongoDB.Driver.GridFS.pdb
