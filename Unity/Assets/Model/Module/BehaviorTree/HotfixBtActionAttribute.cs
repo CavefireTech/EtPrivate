@@ -3,15 +3,15 @@ namespace BehaviorDesigner.Runtime.ObjectDrawers
 {
     public class HotfixBtActionAttribute : ObjectDrawerAttribute
     {
-        public string luaFolderPath;
+        public string hotfixBtActionPath;
         public HotfixBtActionAttribute() : base()
         {
-            this.luaFolderPath = "HotfixResources/Lua/LuaBehavior";
+            this.hotfixBtActionPath = "Hotfix/Module/BehaviorTree";
         }
         // Start is called before the first frame update
-        public HotfixBtActionAttribute(string luaFolderPath) : base()
+        public HotfixBtActionAttribute(string hotfixBtActionPath) : base()
         {
-            this.luaFolderPath = luaFolderPath;
+            this.hotfixBtActionPath = hotfixBtActionPath;
         }
     }
 }

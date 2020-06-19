@@ -25,170 +25,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fefd16b-f51d-4474-bb83-33e00ecdb7d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Editor/BehaviorDesignerEditor/Object Drawers/HotfixBtActionDrawer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Hotfix/Module/BehaviorTree/IBtAction.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Hotfix/Module/BehaviorTree/IBtAction.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Hotfix/Module/BehaviorTree/Movement.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Hotfix/Module/BehaviorTree/Movement.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/BehaviorDesigner_Runtime_Tasks_Task_Binding.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/BehaviorDesigner_Runtime_Tasks_Task_Binding.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Model/Module/BehaviorTree/HotfixBtActionAttribute.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Model/Module/BehaviorTree/HotfixBtActionAttribute.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Model/Module/BehaviorTree/HotfixedAction.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Model/Module/BehaviorTree/HotfixedAction.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Editor/BuildEditor/BuildHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/BuildEditor/BuildHelper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Editor/ServerCommandLineEditor/ServerCommandLineEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/ServerCommandLineEditor/ServerCommandLineEditor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Editor/Unity.Editor.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/Unity.Editor.asmdef" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/Entity/Hotfix.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/Entity/Hotfix.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/CLRBindings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/CLRBindings.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ActionHelper_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ActionHelper_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_AnimatorComponent_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_AnimatorComponent_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_AppTypeHelper_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_AppTypeHelper_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_AssetBundleHelper_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_AssetBundleHelper_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_AsyncETTaskMethodBuilder_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_AsyncETTaskMethodBuilder_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_AsyncETVoidMethodBuilder_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_AsyncETVoidMethodBuilder_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ByteHelper_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ByteHelper_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_C2G_EnterMap_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_C2G_EnterMap_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ComponentFactory_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ComponentFactory_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ComponentView_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ComponentView_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_Component_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_Component_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ConfigAttribute_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ConfigAttribute_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_Define_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_Define_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_DoubleMap_2_UInt16_Type_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_DoubleMap_2_UInt16_Type_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ETTaskCompletionSource_1_Google_Protobuf_Adapt_IMessage_Binding_Adapt_t.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ETTaskCompletionSource_1_Google_Protobuf_Adapt_IMessage_Binding_Adapt_t.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ETTask_1_Google_Protobuf_Adapt_IMessage_Binding_Adaptor_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ETTask_1_Google_Protobuf_Adapt_IMessage_Binding_Adaptor_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ETTask_1_Google_Protobuf_Adapt_IMessage_Binding_Adaptor_Binding_Await_t.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ETTask_1_Google_Protobuf_Adapt_IMessage_Binding_Adaptor_Binding_Await_t.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ETTask_1_IResponse_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ETTask_1_IResponse_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ETTask_1_IResponse_Binding_Awaiter_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ETTask_1_IResponse_Binding_Awaiter_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ETTask_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ETTask_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ETTask_Binding_Awaiter_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ETTask_Binding_Awaiter_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ETVoid_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ETVoid_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_Entity_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_Entity_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ErrorCode_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ErrorCode_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_EventAttribute_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_EventAttribute_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_EventProxy_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_EventProxy_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_EventSystem_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_EventSystem_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_Frame_ClickMap_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_Frame_ClickMap_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_G2C_EnterMap_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_G2C_EnterMap_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_GameObjectHelper_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_GameObjectHelper_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_Game_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_Game_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_GizmosDebug_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_GizmosDebug_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_GlobalConfigComponent_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_GlobalConfigComponent_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_GlobalProto_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_GlobalProto_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_Hotfix_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_Hotfix_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_IMessagePacker_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_IMessagePacker_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_IdGenerater_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_IdGenerater_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_LayerNames_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_LayerNames_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_Log_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_Log_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_M2C_CreateUnits_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_M2C_CreateUnits_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_M2C_PathfindingResult_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_M2C_PathfindingResult_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_MessageAttribute_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_MessageAttribute_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_MessageDispatcherComponent_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_MessageDispatcherComponent_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_MessageInfo_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_MessageInfo_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_MessageProxy_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_MessageProxy_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_MongoHelper_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_MongoHelper_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_NetworkComponent_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_NetworkComponent_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_OpcodeHelper_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_OpcodeHelper_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_OpcodeTypeComponent_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_OpcodeTypeComponent_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_PlayerComponent_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_PlayerComponent_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_Player_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_Player_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ResourcesComponent_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_ResourcesComponent_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_RpcException_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_RpcException_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_SceneChangeComponent_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_SceneChangeComponent_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_SessionCallbackComponent_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_SessionCallbackComponent_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_SessionComponent_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_SessionComponent_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_Session_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_Session_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_StringHelper_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_StringHelper_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_UnOrderMultiMap_2_Type_ILTypeInstance_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_UnOrderMultiMap_2_Type_ILTypeInstance_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_UnitComponent_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_UnitComponent_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_UnitFactory_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_UnitFactory_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_UnitInfo_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_UnitInfo_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_UnitPathComponent_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_UnitPathComponent_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_Unit_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ETModel_Unit_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/Google_Protobuf_ByteString_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/Google_Protobuf_ByteString_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/Google_Protobuf_CodedInputStream_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/Google_Protobuf_CodedInputStream_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/Google_Protobuf_CodedOutputStream_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/Google_Protobuf_CodedOutputStream_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/Google_Protobuf_Collections_RepeatedField_1_Google_Protobuf_Adapt_IMessage_Bi_t.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/Google_Protobuf_Collections_RepeatedField_1_Google_Protobuf_Adapt_IMessage_Bi_t.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/Google_Protobuf_Collections_RepeatedField_1_Int32_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/Google_Protobuf_Collections_RepeatedField_1_Int32_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/Google_Protobuf_Collections_RepeatedField_1_Int64_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/Google_Protobuf_Collections_RepeatedField_1_Int64_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/Google_Protobuf_Collections_RepeatedField_1_Single_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/Google_Protobuf_Collections_RepeatedField_1_Single_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/Google_Protobuf_Collections_RepeatedField_1_String_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/Google_Protobuf_Collections_RepeatedField_1_String_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/Google_Protobuf_Collections_RepeatedField_1_UnitInfo_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/Google_Protobuf_Collections_RepeatedField_1_UnitInfo_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/Google_Protobuf_FieldCodec_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/Google_Protobuf_FieldCodec_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/Google_Protobuf_MessageParser_1_Google_Protobuf_Adapt_IMessage_Binding_Adapto_t.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/Google_Protobuf_MessageParser_1_Google_Protobuf_Adapt_IMessage_Binding_Adapto_t.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/Google_Protobuf_ProtoPreconditions_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/Google_Protobuf_ProtoPreconditions_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/LitJson_JsonMapper_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/LitJson_JsonMapper_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/ReferenceCollector_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/ReferenceCollector_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Action_1_Google_Protobuf_Adapt_IMessage_Binding_Adaptor_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Action_1_Google_Protobuf_Adapt_IMessage_Binding_Adaptor_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Activator_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Activator_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Array_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Array_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_Int32_Action_1_Google_Protobuf_Adapt__t.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_Int32_Action_1_Google_Protobuf_Adapt__t.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_Int64_ILTypeInstance_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_Int64_ILTypeInstance_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_String_ILTypeInstance_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_String_ILTypeInstance_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_String_ILTypeInstance_Binding_ValueCo_t.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_String_ILTypeInstance_Binding_ValueCo_t.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_String_ILTypeInstance_Binding_ValueCo_t_t.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_String_ILTypeInstance_Binding_ValueCo_t_t.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_String_List_1_ILTypeInstance_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_String_List_1_ILTypeInstance_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_Type_ILTypeInstance_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_Type_ILTypeInstance_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_Type_ILTypeInstance_Binding_Enumerato_t.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_Type_ILTypeInstance_Binding_Enumerato_t.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_Type_ILTypeInstance_Binding_ValueColl_t.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_Type_ILTypeInstance_Binding_ValueColl_t.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_Type_ILTypeInstance_Binding_ValueColl_t_t.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_Type_ILTypeInstance_Binding_ValueColl_t_t.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_Type_Queue_1_Object_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_Type_Queue_1_Object_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_UInt16_List_1_ILTypeInstance_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_UInt16_List_1_ILTypeInstance_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_UInt16_Object_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Dictionary_2_UInt16_Object_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_HashSet_1_ILTypeInstance_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_HashSet_1_ILTypeInstance_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_HashSet_1_ILTypeInstance_Binding_Enumerator_Bindin_t.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_HashSet_1_ILTypeInstance_Binding_Enumerator_Bindin_t.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_IEnumerator_1_UnitInfo_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_IEnumerator_1_UnitInfo_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_KeyValuePair_2_Type_ILTypeInstance_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_KeyValuePair_2_Type_ILTypeInstance_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_List_1_ILTypeInstance_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_List_1_ILTypeInstance_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_List_1_ILTypeInstance_Binding_Enumerator_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_List_1_ILTypeInstance_Binding_Enumerator_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_List_1_Object_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_List_1_Object_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_List_1_Type_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_List_1_Type_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_List_1_Type_Binding_Enumerator_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_List_1_Type_Binding_Enumerator_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_List_1_Vector3_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_List_1_Vector3_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Queue_1_ILTypeInstance_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Queue_1_ILTypeInstance_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Queue_1_Int64_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Queue_1_Int64_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Queue_1_Object_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_Generic_Queue_1_Object_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_IDictionary_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_IDictionary_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_IEnumerable_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_IEnumerable_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_IEnumerator_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Collections_IEnumerator_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Exception_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Exception_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_IDisposable_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_IDisposable_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Linq_Enumerable_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Linq_Enumerable_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_NotImplementedException_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_NotImplementedException_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Object_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Object_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Reflection_MemberInfo_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Reflection_MemberInfo_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Reflection_MethodBase_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Reflection_MethodBase_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Reflection_PropertyInfo_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Reflection_PropertyInfo_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_String_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_String_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Text_StringBuilder_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Text_StringBuilder_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Threading_CancellationToken_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Threading_CancellationToken_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Type_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/System_Type_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_Camera_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_Camera_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_Canvas_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_Canvas_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_Color_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_Color_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_Component_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_Component_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_Debug_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_Debug_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_GameObject_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_GameObject_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_Input_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_Input_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_LayerMask_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_LayerMask_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_Object_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_Object_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_Physics_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_Physics_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_RaycastHit_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_RaycastHit_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_TextAsset_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_TextAsset_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_Transform_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_Transform_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_UI_Button_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_UI_Button_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_UI_Graphic_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_UI_Graphic_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_UI_InputField_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_UI_InputField_Binding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_Vector3_Binding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/ILBinding/UnityEngine_Vector3_Binding.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unity/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unity/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/BehaviorDesignerEditor/Object Drawers/HotfixBtActionDrawer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/BehaviorDesignerEditor/Object Drawers/HotfixBtActionDrawer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Model/Module/BehaviorTree/HotfixBtActionAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/Module/BehaviorTree/HotfixBtActionAttribute.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Res/Code/Hotfix.dll.bytes" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Res/Code/Hotfix.dll.bytes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Res/Code/Hotfix.pdb.bytes" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Res/Code/Hotfix.pdb.bytes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Res/Enemies/Enemy1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Res/Enemies/Enemy1.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Version.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Version.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Version.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unity.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Editor.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unity.Hotfix.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Hotfix.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unity.Model.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Model.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Hotfix.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Hotfix.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Model.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/b00f98-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/b00f98-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/d244e7-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/d244e7-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Unity.Editor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Unity.Editor.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Unity.Hotfix.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Unity.Hotfix.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Unity.ThirdParty.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Unity.ThirdParty.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,155 +52,155 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Base/RecyclableMemoryStream/RecyclableMemoryStreamManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/BehaviorTree/HotfixedAction.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DDB5579D-0D23-478C-9F73-EC2F99600079/78/613b225e/SharedVariable.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Base/Event/EventIdType.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DDB5579D-0D23-478C-9F73-EC2F99600079/ed/ce7ff64e/SharedVariable`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Editor/ExcelExporterEditor/ExcelExporterEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Other/IInstanceMethod.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Editor/ServerManagerEditor/ServerManagerEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Other/ILStaticMethod.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Editor/AstarPathfindingProject/AstarPathEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/MongoDB/MongoDB.Bson/Serialization/AttributedSerializationProvider.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Other/ReferenceCollector.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Other/Define.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Pathfinding/Recast/PathFindHelper.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Other/GizmosDebug.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Base/Object/EventSystem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Entity/Hotfix.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/ILRuntime/ILRuntime/Runtime/Stack/StackObject.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Base/Object/ComponentFactory.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Entity/Game.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Editor/AstarPathfindingProject/RVOControllerEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Pathfinding/Recast/NavmeshBase.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Helper/ILHelper.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Helper/BundleHelper.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Pathfinding/Recast/AstarMath.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Base/Object/IAwakeSystem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/MongoDB/MongoDB.Bson/Serialization/IBsonArraySerializer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8F717D6-E666-41DA-8920-44ED9CC77D9B/e9/72cf7fd2/MenuItem.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Base/Object/Object.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Pathfinding/Recast/Path.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Entity/Game.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Entity/Scene.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Pathfinding/Recast/Pathfinders/ABPath.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/814BD9A1-1538-4360-9098-E1F5491F0282/e4/9b3ac942/ProcessStartInfo.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Pathfinding/Recast/Pathfinders/MultiTargetPath.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/UI/UIComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Demo/UnitPathComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/UI/UIComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/814BD9A1-1538-4360-9098-E1F5491F0282/dd/eeb915cd/020001DE.il" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Demo/Player.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/M2C_CreateUnitsHandler.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/G2C_TestHotfixHandler.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/814BD9A1-1538-4360-9098-E1F5491F0282/e9/f3edcee1/020001E2.il" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Demo/SessionComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/MongoDB/MongoDB.Bson/Serialization/Serializers/ExpandoObjectSerializer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/OperaComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/ILRuntime/ILRuntime/Runtime/CLRBinding/MethodBindingGenerator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/M2C_PathfindingResultHandler.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Behavior Designer/Runtime/Tasks/Unity/SharedVariables/SetSharedVector3.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Demo/MoveComponent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/TestHotfixSubscribMonoEvent_LogString.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Behavior Designer/Runtime/Tasks/Unity/Debug/DrawRay.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Behavior Designer/Runtime/Tasks/Unity/Input/GetMouseButton.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../ET-MultiplyDemos/Unity/Assets/Hotfix/Init.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Demo/UnitFactory.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Behavior Designer/Runtime/Tasks/Unity/Debug/DrawLine.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Demo/PlayerComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/ILRuntime/ILRuntime/Runtime/Enviorment/AppDomain.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Demo/AnimatorComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/UI/UILobby/System/UILobbyFactory.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/UI/UILobby/System/EnterMapFinish_RemoveLobbyUI.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Init.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/UI/UILobby/System/LoginFinish_CreateLobbyUI.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/UI/UILobby/Component/UILobbyComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Base/ProcessHelper.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/UI/UILogin/System/InitSceneStart_CreateLoginUI.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/UI/UILogin/System/LoginFinish_RemoveLoginUI.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Base/OneThreadSynchronizationContext.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/UI/UILogin/System/UILoginFactory.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/UI/UILogin/Component/UILoginComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Actor/IActorMessage.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/AssetsBundle/AssetsLoaderAsync.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/Helper/LoginHelper.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/814BD9A1-1538-4360-9098-E1F5491F0282/af/fabd11c0/Process.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/AssetsBundle/BundleDownloaderComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/AssetsBundle/ResourcesComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/Helper/MapHelper.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Actor/IActorMessage.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Behavior Designer/Runtime/Tasks/Unity/Rigidbody/GetVelocity.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Component/SceneChangeComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Config/ConfigComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Pathfinding/AstarPathfindingProject/Core/AstarPath.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Config/ConfigHelper.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Base/Log.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Message/AMHandler.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Component/Config/ClientConfig.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Behavior Designer/Runtime/Variables/SharedVector3.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Base/IL/IAsyncStateMachineAdaptor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Message/HotfixMessage.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Base/Async/AsyncETTaskMethodBuilder.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/BehaviorTree/Movement.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Base/Async/ETTaskCompletionSource.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Component/Config/GlobalProto.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Message/MessageDispatcherComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Base/Async/ETVoid.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Pathfinding/AstarPathfindingProject/Core/RVO/RVOAgent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Message/Session.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8F717D6-E666-41DA-8920-44ED9CC77D9B/15/36859ef1/SerializedProperty.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Message/NetOuterComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Base/Async/ETCancellationTokenSource.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Message/ErrorCode.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Base/Async/AsyncETVoidMethodBuilder.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Message/RpcException.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Message/NetOuterComponentSystem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2C24F0C1-857D-4078-B6D4-53F88E061A29/0c/2e2c307e/List`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Base/Event/EventIdType.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/MongoDB/MongoDB.Bson/Serialization/Conventions/ConventionBase.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Message/OuterOpcode.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DDB5579D-0D23-478C-9F73-EC2F99600079/be/9782ded6/TaskStatus.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2C24F0C1-857D-4078-B6D4-53F88E061A29/5b/96aeeea8/Type.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/MongoDB/MongoDB.Bson/Exceptions/DuplicateBsonMemberMapAttributeException.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2C24F0C1-857D-4078-B6D4-53F88E061A29/a2/f2f07885/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Editor/Unity.Editor.asmdef" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/2C24F0C1-857D-4078-B6D4-53F88E061A29/bd/7e081eb4/020005DB.il" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DDB5579D-0D23-478C-9F73-EC2F99600079/78/613b225e/SharedVariable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/ILRuntime/ILRuntime/CLR/TypeSystem/ILType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/M2C_PathfindingResultHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Config/ConfigComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DDB5579D-0D23-478C-9F73-EC2F99600079/ed/ce7ff64e/SharedVariable`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Component/SceneChangeComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Config/ConfigHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/OperaComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/BehaviorTree/HotfixedAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/G2C_TestHotfixHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/UI/UIComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/M2C_CreateUnitsHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/BehaviorTree/HotfixBtActionAttribute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Message/Network/Circularbuffer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/AssetsBundle/ResourcesComponent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Message/OuterMessage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Message/Network/AService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Message/Network/Circularbuffer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Editor/BuildEditor/BuildHotfixEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/BehaviorTree/IBtAction.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Editor/BuildEditor/BuildHelper.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/C2C44761-F7E8-4618-A60E-C98AD485C28B/a4/4802147c/02000005pdb.il" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Editor/BuildEditor/BuildEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Editor/RsyncEditor/RsyncEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/F8F717D6-E666-41DA-8920-44ED9CC77D9B/ef/ff44a3d9/02000382.il" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Editor/RsyncEditor/RsyncConfig.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Behavior Designer/Runtime/Tasks/Unity/Transform/RotateAround.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Editor/Proto2CsEditor/Proto2CSEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6C3A4A71-794E-4DA2-AE8F-F105BA1ECBEA/82/ccba51b3/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/AssetsBundle/BundleDownloaderComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/AssetsBundle/AssetsLoaderAsync.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/MongoDB/MongoDB.Bson/Serialization/Serializers/ExpandoObjectSerializer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Message/OuterOpcode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/ILRuntime/ILRuntime/Runtime/CLRBinding/MethodBindingGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Message/RpcException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Base/Event/EventIdType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Entity/Game.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Entity/Scene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Message/NetOuterComponentSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Base/Object/Object.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Message/ErrorCode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Base/Object/IAwakeSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Base/Async/AsyncETVoidMethodBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8F717D6-E666-41DA-8920-44ED9CC77D9B/e9/72cf7fd2/MenuItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Pathfinding/AstarPathfindingProject/Core/RVO/RVOAgent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Message/Session.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Message/NetOuterComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Base/Async/ETCancellationTokenSource.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Editor/BehaviorDesignerEditor/Object Drawers/HotfixBtActionDrawer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Base/Async/ETVoid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/MongoDB/MongoDB.Bson/Serialization/IBsonArraySerializer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Base/Async/ETTaskCompletionSource.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Base/Async/AsyncETTaskMethodBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/814BD9A1-1538-4360-9098-E1F5491F0282/e4/9b3ac942/ProcessStartInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Base/IL/IAsyncStateMachineAdaptor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/ILRuntime/ILRuntime/Runtime/Enviorment/AppDomain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Base/Object/ComponentFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/AstarPathfindingProject/RVOControllerEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Base/Object/EventSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/814BD9A1-1538-4360-9098-E1F5491F0282/dd/eeb915cd/020001DE.il" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Pathfinding/AstarPathfindingProject/Core/AstarPath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/814BD9A1-1538-4360-9098-E1F5491F0282/e9/f3edcee1/020001E2.il" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Base/Log.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/AstarPathfindingProject/AstarPathEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Base/Event/EventIdType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../ET-MultiplyDemos/Unity/Assets/Hotfix/Init.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/MongoDB/MongoDB.Bson/Serialization/AttributedSerializationProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/ILRuntime/ILRuntime/Runtime/Stack/StackObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Actor/IActorMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Base/OneThreadSynchronizationContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/ExcelExporterEditor/ExcelExporterEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Init.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/ServerManagerEditor/ServerManagerEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Base/ProcessHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Behavior Designer/Runtime/Tasks/Actions/Log.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/ReferenceCollectorEditor/ReferenceCollectorEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Init.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Demo/PlayerComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Demo/AnimatorComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/ServerCommandLineEditor/ServerCommandLineEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Demo/UnitFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/814BD9A1-1538-4360-9098-E1F5491F0282/af/fabd11c0/Process.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Demo/MoveComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/MongoDB/MongoDB.Bson/ObjectModel/Decimal128.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Demo/SessionComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/AstarPathfindingProject/GraphEditors/GraphEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Demo/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/ILRuntime/Mono.Cecil/Mono.Cecil.Metadata/TableHeap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/UI/UIComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Demo/UnitPathComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Behavior Designer/Runtime/Tasks/Unity/Debug/DrawLine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Pathfinding/Recast/Pathfinders/MultiTargetPath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/Proto2CsEditor/Proto2CSEditor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Editor/GlobalConfigEditor/GlobalConfigEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8F717D6-E666-41DA-8920-44ED9CC77D9B/72/9c598985/MonoScript.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Pathfinding/Recast/Pathfinders/ABPath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Pathfinding/Recast/Path.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Behavior Designer/Runtime/Tasks/Unity/Input/GetMouseButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Behavior Designer/Runtime/Tasks/Unity/Transform/RotateAround.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8F717D6-E666-41DA-8920-44ED9CC77D9B/15/36859ef1/SerializedProperty.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/RsyncEditor/RsyncEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/RsyncEditor/RsyncConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Pathfinding/Recast/AstarMath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Behavior Designer/Runtime/Tasks/Unity/Debug/DrawRay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/BuildEditor/BuildEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/BuildEditor/BuildHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/BuildEditor/BuildHotfixEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2C24F0C1-857D-4078-B6D4-53F88E061A29/0c/2e2c307e/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DDB5579D-0D23-478C-9F73-EC2F99600079/be/9782ded6/TaskStatus.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Helper/BundleHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/Unity.Editor.asmdef" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Helper/ILHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2C24F0C1-857D-4078-B6D4-53F88E061A29/5b/96aeeea8/Type.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/MongoDB/MongoDB.Bson/Exceptions/DuplicateBsonMemberMapAttributeException.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Behavior Designer/Runtime/Tasks/Unity/Transform/Translate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Pathfinding/Recast/NavmeshBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2C24F0C1-857D-4078-B6D4-53F88E061A29/a2/f2f07885/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/MongoDB/MongoDB.Bson/Serialization/Conventions/ConventionBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/2C24F0C1-857D-4078-B6D4-53F88E061A29/bd/7e081eb4/020005DB.il" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Entity/Game.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Other/GizmosDebug.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Pathfinding/Recast/PathFindHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Entity/Hotfix.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Behavior Designer/Runtime/Variables/SharedVector3.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Other/Define.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/C2C44761-F7E8-4618-A60E-C98AD485C28B/a4/4802147c/02000005pdb.il" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Other/ReferenceCollector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/F8F717D6-E666-41DA-8920-44ED9CC77D9B/ef/ff44a3d9/02000382.il" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Other/ILStaticMethod.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Other/IInstanceMethod.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6C3A4A71-794E-4DA2-AE8F-F105BA1ECBEA/82/ccba51b3/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F8F717D6-E666-41DA-8920-44ED9CC77D9B/72/9c598985/MonoScript.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Base/RecyclableMemoryStream/RecyclableMemoryStreamManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Actor/IActorMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/Helper/LoginHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Base/Object/ComponentFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/Helper/MapHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/UI/UILogin/Component/UILoginComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Pathfinding/AstarPathfindingProject/Generators/Utilities/Voxels/VoxelContour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Component/Config/GlobalProto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4B28E198-50D5-443C-B0DA-B9A889DF4542/a6/4dde4b81/BehaviorInspector.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Behavior Designer/Runtime/Tasks/Unity/Rigidbody/GetVelocity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/UI/UILogin/System/LoginFinish_RemoveLoginUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/BehaviorTree/IBtAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/UI/UILogin/System/UILoginFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Behavior Designer/Runtime/Tasks/Unity/NavMeshAgent/Move.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/BehaviorTree/Movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Message/MessageDispatcherComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Component/Config/ClientConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Pathfinding/AstarPathfindingProject/Generators/Utilities/RecastMeshObj.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/UI/UILogin/System/InitSceneStart_CreateLoginUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/UI/UILobby/Component/UILobbyComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6C3A4A71-794E-4DA2-AE8F-F105BA1ECBEA/df/1b913834/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/UI/UILobby/System/UILobbyFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/UI/UILobby/System/LoginFinish_CreateLobbyUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Demo/UI/UILobby/System/EnterMapFinish_RemoveLobbyUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Module/Message/HotfixMessage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Pathfinding/AstarPathfindingProject/Utilities/AstarProfiler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Message/Network/WebSocket/WService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Editor/AstarPathfindingProject/GraphEditors/GraphEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/ILRuntime/Mono.Cecil/Mono.Cecil.Metadata/TableHeap.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4B28E198-50D5-443C-B0DA-B9A889DF4542/a6/4dde4b81/BehaviorInspector.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Behavior Designer/Runtime/Tasks/Unity/NavMeshAgent/Move.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Pathfinding/AstarPathfindingProject/Generators/Utilities/RecastMeshObj.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/BehaviorTree/HotfixBtActionAttribute.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Behavior Designer/Runtime/Tasks/Actions/Log.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Editor/ServerCommandLineEditor/ServerCommandLineEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6C3A4A71-794E-4DA2-AE8F-F105BA1ECBEA/df/1b913834/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Module/Pathfinding/AstarPathfindingProject/Generators/Utilities/Voxels/VoxelContour.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Editor/ReferenceCollectorEditor/ReferenceCollectorEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/ILRuntime/ILRuntime/CLR/TypeSystem/ILType.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Hotfix/Init.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/MongoDB/MongoDB.Bson/ObjectModel/Decimal128.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Model/Base/Object/ComponentFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Behavior Designer/Runtime/Tasks/Unity/SharedVariables/SetSharedVector3.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2C24F0C1-857D-4078-B6D4-53F88E061A29/84/04b865a2/AssemblyName.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -371,11 +224,11 @@
         <option value="$PROJECT_DIR$/Assets/Editor/ServerCommandLineEditor/ServerCommandLineEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/Editor/BuildEditor/BuildHelper.cs" />
         <option value="$PROJECT_DIR$/Assets/Editor/Unity.Editor.asmdef" />
-        <option value="$PROJECT_DIR$/Assets/Model/Module/BehaviorTree/HotfixBtActionAttribute.cs" />
         <option value="$PROJECT_DIR$/Assets/Hotfix/Module/BehaviorTree/IBtAction.cs" />
-        <option value="$PROJECT_DIR$/Assets/Editor/BehaviorDesignerEditor/Object Drawers/HotfixBtActionDrawer.cs" />
         <option value="$PROJECT_DIR$/Assets/Model/Module/BehaviorTree/HotfixedAction.cs" />
         <option value="$PROJECT_DIR$/Assets/Hotfix/Module/BehaviorTree/Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Model/Module/BehaviorTree/HotfixBtActionAttribute.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/BehaviorDesignerEditor/Object Drawers/HotfixBtActionDrawer.cs" />
       </list>
     </option>
   </component>
@@ -426,6 +279,7 @@
       <workItem from="1592200456964" duration="890000" />
       <workItem from="1592201428494" duration="34512000" />
       <workItem from="1592446058688" duration="19568000" />
+      <workItem from="1592474367489" duration="539000" />
     </task>
     <servers />
   </component>
@@ -480,10 +334,10 @@
           <line>87</line>
           <properties documentPath="$PROJECT_DIR$/Assets/Editor/BehaviorDesignerEditor/Object Drawers/HotfixBtActionDrawer.cs" initialLine="45">
             <startOffsets>
-              <option value="4329" />
+              <option value="4347" />
             </startOffsets>
             <endOffsets>
-              <option value="4423" />
+              <option value="4441" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="5" />
